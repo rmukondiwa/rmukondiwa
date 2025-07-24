@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hey there 👋, I'm Raphael!
 
-<!--
-**rmukondiwa/rmukondiwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=raphmuk&label=Profile%20views&color=green)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Welcome to my profile 💻
+
+- 🎓 Rising Junior @ **Duke University**, studying **Computer Science + Economics**
+- 💼 SWE Intern @ **Microsoft**, M365 Core (Summer ‘25)
+- 🧠 Ex Microsoft Explore PM+SWE Intern (Summer ‘24)
+- ⚡ Full-stack + cloud computing + quant dev enthusiast
+- 🇿🇼 Born in Zimbabwe, based in the U.S.
+- 🧪 Building tools, trading bots, and maybe one day startups
+
+---
+
+## Software Development Background 🔥
+
+### Languages 👨‍💻  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![C]([https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/C%20Programming-black?style=for-the-badge&logo=c))  
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
+---
+
+### Tools ⚙️  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=azure-devops&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+---
+
+### Learning 📚  
+![Kusto](https://img.shields.io/badge/-KQL-000000?style=flat-square)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+---
+
+## 🔍 Featured Projects
+
+- 💞 **(PS-FrontEnd) Happy Accidents** — Duke dating app using predictive behavior & location
+- 📈 **Bitcoin Sentiment CLI tool** — 8k+ data points-powered Markov Chain investing tool
+
+---
+
+## Let's Connect 🤝
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphmuk/)  
+📫 raphael.mukondiwa@duke.edu  
