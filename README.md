@@ -6,11 +6,10 @@
 
 ## Welcome to my profile 💻
 
-- 🎓 Rising Junior @ **Duke University**, studying **Computer Science + Economics**
+- 🎓 Junior @ **Duke University**, studying **Computer Science + Economics**
 - 💼 SWE Intern @ **Microsoft**, M365 Core (Summer ‘25)
 - 🧠 Ex Microsoft Explore PM+SWE Intern (Summer ‘24)
 - ⚡ Full-stack + cloud computing + quant dev enthusiast
-- 🇿🇼 Born in Zimbabwe, based in the U.S.
 - 🧪 Building tools, trading bots, and maybe one day startups
 
 ---
@@ -21,6 +20,7 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 ![C]([https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/C%20Programming-black?style=for-the-badge&logo=c))  
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
@@ -45,6 +45,7 @@
 
 ## 🔍 Featured Projects
 
+- 📰 **M-SAIC** - Finance Article AI-Powered summarizer and daily market debriefing tool
 - 💞 **(PS-FrontEnd) Happy Accidents** — Duke dating app using predictive behavior & location
 - 📈 **Bitcoin Sentiment CLI tool** — 8k+ data points-powered Markov Chain investing tool
 
