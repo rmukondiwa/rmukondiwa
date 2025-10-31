@@ -9,7 +9,7 @@
 - 🎓 Junior @ **Duke University**, studying **Computer Science + Economics**
 - 💼 SWE Intern @ **Microsoft**, M365 Core (Entreprise and Cloud Summer ‘25)
 - 🧠 Ex Microsoft Explore PM+SWE Intern M365 CORE (Substrate Summer ‘24)
-- ⚡ Full-stack + cloud computing + quant dev enthusiast
+- ⚡ Full-stack + cloud computing + algorithmic trading enthusiast
 - 🧪 Building tools, trading bots, and maybe one day startups
 
 ---
