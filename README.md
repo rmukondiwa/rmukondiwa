@@ -8,7 +8,7 @@
 
 - 🎓 Junior @ **Duke University**, studying **Computer Science + Economics**
 - 💼 Ex. SWE Intern @ **Microsoft**, M365 Core (Entreprise and Cloud Summer ‘25)
-- 🧠 Ex Microsoft Explore PM+SWE Intern M365 CORE (Substrate Summer ‘24)
+- 🧠 Ex PM+SWE Intern @ **Microsoft**, M365 CORE (Substrate Summer ‘24)
 - ⚡ Full-stack + cloud computing + algorithmic trading enthusiast
 - 🧪 Building tools, trading bots, and maybe one day startups
 
@@ -16,14 +16,14 @@
 
 ## Software Development Background 🔥
 
-### Languages 👨‍💻  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-![C]([https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/C%20Programming-black?style=for-the-badge&logo=c))  
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-
+### Languages I Know  
+- C#
+- Java
+- Javascript/Typescript
+- Python
+- C
+- MIPS Assembly
+- Swift
 ---
 
 ### Tools ⚙️  
@@ -37,8 +37,6 @@
 ---
 
 ### Learning 📚  
-![Kusto](https://img.shields.io/badge/-KQL-000000?style=flat-square)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ---
@@ -47,7 +45,7 @@
 
 - 📰 **M-SAIC** - Finance Article AI-Powered summarizer and daily market debriefing tool
 - 💞 **(PS-FrontEnd) Happy Accidents** — Duke dating app using predictive behavior & location
-- 📈 **Bitcoin Sentiment CLI tool** — 8k+ data points-powered Markov Chain investing tool
+- 📈 **Bitcoin Markov Backtester tool** — 8k+ data points-powered Markov Chain investing tool
 
 ---
 
