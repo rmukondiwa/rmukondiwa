@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Raphael!
+# Hey, I'm Raphael!
 
 ![Profile views](https://komarev.com/ghpvc/?username=raphmuk&label=Profile%20views&color=green)
 
