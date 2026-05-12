@@ -1,29 +1,19 @@
-# Hey, I'm Raphael!
+# Raphael Mukondiwa
 
 ![Profile views](https://komarev.com/ghpvc/?username=raphmuk&label=Profile%20views&color=green)
 
 ---
 
-## Welcome to my profile 💻
+Junior at Duke (CS + Econ). Two summers at Microsoft. Super interested in performance critical systems — low latency systems, distributed infra, algorithmic trading.
 
-- 🎓 Junior @ **Duke University**, studying **Computer Science + Economics**
-- 💼 Ex. SWE Intern @ **Microsoft**: '24,'25
-- ⚡ Low latency + distributed systems + algorithmic trading enthusiast
-- 🧪 Building tools, trading bots, and maybe one day startups
+Documenting my learnings and projects [here](https://raphaelnukondiwa.com)
 
 ---
 
-## Software Development Background 🔥
+**Languages:** C#, Java, TypeScript, Python, C++, Swift  
 
-### Languages I Know  
-- C#
-- Java
-- Javascript/Typescript
-- Python
-- C++
-- Swift
 ---
-## Let's Connect 🤝
+## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphmuk/)  
-📫 raphael.mukondiwa@duke.edu  
+raphael.mukondiwa@duke.edu  
