@@ -6,7 +6,7 @@
 
 Junior at Duke (CS + Econ). Two summers at Microsoft. Super interested in performance critical systems — low latency systems, distributed infra, algorithmic trading.
 
-Documenting my learnings and projects [here](https://raphaelnukondiwa.com)
+Documenting my learnings and projects [here](https://raphaelmukondiwa.com)
 
 ---
 
