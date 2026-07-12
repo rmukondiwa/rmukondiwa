@@ -4,13 +4,13 @@
 
 ---
 
-Junior at Duke (CS + Econ). Two summers at Microsoft. Super interested in performance critical systems — low latency systems, distributed infra, algorithmic trading.
+Senior at Duke (CS + Econ). Two summers @ Microsoft, currently @ iCapital. Super interested in performance critical systems — low latency systems, distributed infra, algorithmic trading.
 
 Documenting my learnings and projects [here](https://raphaelmukondiwa.com)
 
 ---
 
-**Languages:** C#, Java, TypeScript, Python, C++, Swift  
+**Languages:** C++, Python, Java, C#, Scala, Swift
 
 ---
 ## Let's Connect!
