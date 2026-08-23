@@ -4,7 +4,7 @@
 
 ---
 
-Senior at Duke (CS + Econ). Two summers @ Microsoft, currently @ iCapital. Super interested in performance critical systems — low latency systems, distributed infra, algorithmic trading.
+Senior at Duke (CS + Econ). Two summers @ Microsoft, and one @ iCapital. Super interested in performance critical systems — low latency systems, distributed infra, algorithmic trading.
 
 Documenting my learnings and projects [here](https://raphaelmukondiwa.com)
 
