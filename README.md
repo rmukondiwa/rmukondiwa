@@ -5,6 +5,7 @@
 ---
 
 Senior at Duke (CS + Econ). Two summers @ Microsoft, and one @ iCapital. Super interested in performance critical systems — backend engineering, distributed infra
+
 Documenting my learnings and projects [here](https://raphaelmukondiwa.com)
 
 ---
